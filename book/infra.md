@@ -3,9 +3,10 @@
 ## DPoS
 
 
-## Delve into Steem Blockchain
+## Delve into Steem
 
-- Introduction to Steem Blockchain: https://hackmd.io/7M3ZTgFHRDOTGrb7n0vOOQ?both
+- Learn about Steem Internals: https://hackmd.io/7M3ZTgFHRDOTGrb7n0vOOQ?both
+
 
 ## Witness Operation
 

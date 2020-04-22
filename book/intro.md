@@ -1,6 +1,8 @@
 # Introduction to Steem
 
-Below content is from [Awesome Steem](https://github.com/steem-driver/awesome-steem)
+Below content is from [**Awesome Steem**](https://github.com/steem-driver/awesome-steem)
+
+## Resource
 
 *Documents & videos about Steem*
 
